@@ -1,10 +1,10 @@
 {
   "separator": "|",
-  "baseTitle": "Henlo.",
+  "baseTitle": "Rotos",
   "keyword": "gatsby-starter, blazing fast static site",
   "lang": "en",
   "title": "The most advanced starter for Gatsby & Netlify CMS.",
-  "themeColor": "#000",
+  "themeColor": "#2a0707",
   "image": "/img/henlo-cover.png",
   "twitterHandle": "@cleancommit",
   "description": "Think lightweight WordPress. Extensible, block based starter for Netlify CMS. Built with performance in mind, styled with TailwindCSS. "
